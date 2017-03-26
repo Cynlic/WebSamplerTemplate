@@ -12,11 +12,22 @@ The finished project should be a fully functioning, deployed web application wit
  - WebAudio Api familiarity
  - Cheap server and deployment service, eg Heroku.
  - Scheduled development 
+ - Attractive UI for use in portfolios
+ - Usability in creative work
+   - Audio export?
+   - Sequencing?
+   - Fast/without audible lag
  
 ## Resources 
  - Building WebApps with Clojure
  - Clojure/Cljs docs 
  - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API
+ - UI
+   - React docs: https://facebook.github.io/react/tutorial/tutorial.html
+     - Om vs Reagent: http://theatticlight.net/posts/Om-and-Reagent/
+     - Om: https://github.com/omcljs/om
+     - Reagent: https://holmsand.github.io/reagent/
+   - Any other options?
 
 ## Timeline
  - Read the dang book: 
